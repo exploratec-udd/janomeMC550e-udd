@@ -1,3 +1,7 @@
+## InkStitch para diseñar bordados
+
+[VOLVER AL PRINCIPIO](/../..)[![volver](https://web.archive.org/web/20090723231316/http://www.geocities.com/empordanacio/back.gif)](/../..)
+
 TODO como instalar inkscape
 
 TODO como instalar inkstitch
