@@ -123,7 +123,9 @@ Luego el archivo se puede poner en un pendrive y llevar a la máquina.
 ## Tutoriales recomendados
 
 [🔗 @InkStitch | Canal de YouTube Oficial](https://www.youtube.com/@InkStitch)
+
 [🔗 @LowTechLinux | Canal de YouTube Recomendado](https://www.youtube.com/@LowTechLinux)
+
 [🔗 @ProjectAnonymous_Duo | Canal de YouTube Recomendado](https://www.youtube.com/@ProjectAnonymous_Duo)
 
 ---
