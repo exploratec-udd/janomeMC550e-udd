@@ -23,12 +23,21 @@ Inkstitch se descarga desde su página web [https://inkstitch.org/](https://inks
 Permalink más reciente de la página para consultar sobre la instalación en windows: [https://web.archive.org/web/20250719182801/https://inkstitch.org/docs/install-windows/](https://web.archive.org/web/20250719182801/https://inkstitch.org/docs/install-windows/)
 
 
-TODO lo básico de inkstitch 'parametros'
+## Uso de Ink/Stitch
 
-TODO bordado de figuras del tipo relleno
+### Params
 
-TODO bordado de satin automático
 
-TODO bordado de satin manual
+### Bordado tipo relleno
 
-TODO links a tutoriales y más para seguir aprendiendo
+
+### Bordado tipo satín
+
+#### Satín automático:
+
+
+#### Satín manual:
+
+
+## Tutoriales recomendados
+
