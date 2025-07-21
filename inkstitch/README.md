@@ -112,7 +112,13 @@ Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/St
 
 ## Exportar archivo de bordado
 
+Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la maquina bordadora, hay que guardar el archivo primero como `.svg` de inkscape para guardar el proyecto, y luego como una copia en formato **`.jef`**, nótese que hay múltiples extensiones de archivo, y las que tienen que ver con bordado parten con 'Ink/Stitch:', el **`.jef`** es específico para las bordadoras Janome.
 
+|**Guardar una copia**|**Guardar en formato compatible**|
+---|---
+|![foto](img/save.png)|![foto](img/jef.png)|
+
+Luego el archivo se puede poner en un pendrive y llevar a la máquina.
 
 ## Tutoriales recomendados
 
