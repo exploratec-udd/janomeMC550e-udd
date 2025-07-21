@@ -8,9 +8,9 @@ Por ello optamos por el uso de la herramienta Inkscape junto a su Plug-In InkSti
 
 ## Instalar inkscape
 
-TODO agregar tutorial
-
 Inkscape se instala de forma gratuita a través de su página web ([https://inkscape.org/es/](https://inkscape.org/es/)) en el apartado de descarga, ahí se debe escoger el instalador a usar (suele seleccionarse de manera automática) y descargarlo, ya estando descargado se instala, se aceptan lo terminos de uso y se escoge la carpeta en la que se instalará. Al finalizar la instalación se abre inkscape y se puede hacer la configuración inicial de la interfaz, al cerrarlo o presionar `New Document` se abrirá una hoja de trabajo para comenzas a usar inkscape (se recomienda usar el software configurado en inglés para facilitar el uso de tutoriales).
+
+ [🔗 Tutorial de la instalación en YouTube](https://www.youtube.com/watch?v=qUHQng7XKlg)
 
 Si bien la interfaz es parecida a illustrator, se recomienda estudiar su uso por medio de tutoriales.
 
@@ -18,9 +18,9 @@ Si bien la interfaz es parecida a illustrator, se recomienda estudiar su uso por
 
 ## Instalar Ink/Stitch
 
-TODO agregar tutorial
-
 Inkstitch se descarga desde su página web [https://inkstitch.org/](https://inkstitch.org/), en ella hay que ir a `Download` y descargar la versión de acuerdo al sistema operativo en el que se esté trabajando. En la misma página de inkscape hay un instructivo para descargar e instalar el plug-in.
+
+ [🔗 Tutorial de la instalación en YouTube](https://www.youtube.com/watch?v=CkqyaNlMq_A)
 
 > ***Solo usar en caso de que la página de inkstitch no funcione:***
 Permalink más reciente de la página para consultar sobre la instalación en windows: [https://web.archive.org/web/20250719182801/https://inkstitch.org/docs/install-windows/](https://web.archive.org/web/20250719182801/https://inkstitch.org/docs/install-windows/)
@@ -122,6 +122,9 @@ Luego el archivo se puede poner en un pendrive y llevar a la máquina.
 
 ## Tutoriales recomendados
 
-TODO añadir recomendaciones
+[🔗 @InkStitch | Canal de YouTube Oficial](https://www.youtube.com/@InkStitch)
+[🔗 @LowTechLinux | Canal de YouTube Recomendado](https://www.youtube.com/@LowTechLinux)
+[🔗 @ProjectAnonymous_Duo | Canal de YouTube Recomendado](https://www.youtube.com/@ProjectAnonymous_Duo)
 
+---
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) 2025
