@@ -12,8 +12,7 @@ Inkscape se instala de forma gratuita a través de su página web ([https://inks
 
 Si bien la interfaz es parecida a illustrator, se recomienda estudiar su uso por medio de tutoriales.
 
-> *nota del autor*
-a mi en particular me resulta difícil encontrar ciertas configuraciones, pero me he fijado que casi siempre lo que busco está en la pestaña `Object` o `Path`, ahí se pueden abrir las herramientas de trazo/relleno, capas, alineación, booleanas/busca-trazos, etc.
+> `nota del autor` a mi en particular me resulta difícil encontrar ciertas configuraciones, pero me he fijado que casi siempre lo que busco está en la pestaña `Object` o `Path`, ahí se pueden abrir las herramientas de trazo/relleno, capas, alineación, booleanas/busca-trazos, etc.
 
 ## Instalar Ink/Stitch
 
@@ -35,21 +34,61 @@ Como primer paso para experimentar, con las herramientas `Rectangle Tool`, `Elli
 
 ### Params
 
-En la barra superior de inkscape se abre la siguiente opción **`Extensions > Ink/Stitch > Params`** este abre el principal entorno en el que se trabaja para realizar los planes de bordado. Dependiendo de si la figura dibujada tiene relleno y trazo, o si está seleccionada en el caso de que hayan multiples figuras; inkstitch mostrará una propuesta de plan de bordado y opciones de `Stroke`, `FillStitch` y/o, `Fill Underlay` (por ejemplo si la figura solo tiene trazo no se mostrarán las opciones de *Fill*). Se recomienda experimentar con los parametros de cada opción para aprender a manejar 
+En la barra superior de inkscape se abre la siguiente opción **`Extensions > Ink/Stitch > Params`** este abre el principal entorno en el que se trabaja para realizar los planes de bordado. Dependiendo de si la figura dibujada tiene relleno y trazo, o si está seleccionada en el caso de que hayan multiples figuras; inkstitch mostrará una propuesta de plan de bordado y opciones de `Stroke`, `FillStitch` y/o, `Fill Underlay` (por ejemplo si la figura solo tiene trazo no se mostrarán las opciones de *Fill*). Se recomienda experimentar con los parametros de cada opción para aprender sobre el programa.
+
+|**Como encontrar Params**
+:----:
+![foto](img/params.png)
+
+Cabe decir que para que se guarden los cambios realizados hay que presionar `Apply and Quit`, de lo contrario no quedarán guardados, sin embargo cada vez que se entre a la pestaña de `Params` se cargaran las opciones por defecto, si se quiere guardar una configuracion para usarla después se tiene que añadir un preset, con el botón `Presets > Add`
+
+|**Guardar los cambios**
+:----:
+![foto](img/apply.png)
 
 ### Bordado tipo relleno
 
+TODO insertar una fotografia de un bordado relleno real
 
+Cuando se trabaja con figuras con relleno solido es decir que no sean `No paint`, esto aparece en las opciones de relleno y trazo que se pueden desplegar con **`Object > Fill and Stroke...`**; inkstitch interpretará este relleno solido como un espacio a rellenar con bordado, por lo que al abrir **`Extensions > Ink/Stitch > Params`** aparecerán las opciones de `FillStitch` y `Fill Underlay` cada una con distintos parametros para manejar.
+
+> si se desea profundizar en esto se recomienda revisar lo siguiente: [https://inkstitch.org/docs/stitches/fill-stitch/](https://inkstitch.org/docs/stitches/fill-stitch/)
+
+|**Opciones de FillStitch en Params**
+:----:
+![foto](img/fill.png)
 
 ### Bordado tipo satín
+
+TODO insertar una fotografia de un bordado satin real
 
 
 
 #### Satín automático:
 
+Para realizar un bordado del tipo satín de forma rápida se puede usar la herramienta de **`Extensions > Ink/Stitch > Tools: Satin > Convert Line to Satin`**, para ello se debe seleccionar el trazo que se quiere convertir, puede ser cualquier trazo siempre y cuando tenga un principio y un final, es decir que no sea un trazo cerrado, además este debe tener grosor y ser solido
 
+|**Dibujar un trazo con el bezier**
+:----:
+![foto](img/bezier.png)
+
+|**Convertir línea a satín**
+:----:
+![foto](img/line-satin.png)
+
+|**Resultado de convertir línea a satín**
+:----:
+![foto](img/easy-satin.png)
+
+|**Opciones de Satín en Params**
+:----:
+![foto](img/easy-satin-params.png)
 
 #### Satín manual:
+
+
+
+## Exportar archivo de bordado
 
 
 
