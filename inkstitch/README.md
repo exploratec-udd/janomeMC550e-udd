@@ -25,18 +25,32 @@ Permalink más reciente de la página para consultar sobre la instalación en wi
 
 ## Uso de Ink/Stitch
 
+Tras realizar la instalación ya se puede comenzar a usar para diseñar bordados, inkstitch permite realizar varios tipos de bordado; si bien en esta guía se usa el bordado tipo relleno y tipo satín hay otras que se explican tambien en la página de inkstitch.
+
+Para comenzar se debe abrir inkscape y trabajar en una mesa de trabajo acorde al tamaño del bordado (se recomienda usar el tamaño del bastidor a usar), por defecto el tamaño de la mesa de trabajo en inkscape es A4, el cuál se puede cambiar desde **`File > Document Properties...`** o con el atajo `shift+ctrl+D` en windows.
+
+Para verificar que esté instalado inkstitch en inkscape se abre la barra de **`Extensions`** y debería estar una opción llamada **`Ink/Stitch`**, si no aparece prueba cerrando y volviendo a abrir inkscape, si esto no funciona, prueba volver a instalar inkstitch.
+
+Como primer paso para experimentar, con las herramientas `Rectangle Tool`, `Ellipse/Arc Tool`, o `Star/Polygon Tool`, ubicadas al costado de la mesa de trabajo, dibuja una figura en la mesa de trabajo. Con eso ya se podrá jugar con el siguiente paso.
+
 ### Params
 
+En la barra superior de inkscape se abre la siguiente opción **`Extensions > Ink/Stitch > Params`** este abre el principal entorno en el que se trabaja para realizar los planes de bordado. Dependiendo de si la figura dibujada tiene relleno y trazo, o si está seleccionada en el caso de que hayan multiples figuras; inkstitch mostrará una propuesta de plan de bordado y opciones de `Stroke`, `FillStitch` y/o, `Fill Underlay` (por ejemplo si la figura solo tiene trazo no se mostrarán las opciones de *Fill*). Se recomienda experimentar con los parametros de cada opción para aprender a manejar 
 
 ### Bordado tipo relleno
 
 
+
 ### Bordado tipo satín
+
+
 
 #### Satín automático:
 
 
+
 #### Satín manual:
+
 
 
 ## Tutoriales recomendados
