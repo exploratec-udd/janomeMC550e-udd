@@ -7,13 +7,8 @@ A continuación se muestra el manual de instrucciones de la bordadora en caso de
 
 ---
 
-## **Manual de Instrucciones** *Janome Memory Craft 550e*
+[https://www.google.com]: # '**Manual de Instrucciones** *Janome Memory Craft 550e*'
 
-<object data="docs\Manual-de-instrucciones-MC550E.pdf" type="application/pdf" width="80%" height="600px">
-    <embed src="docs\Manual-de-instrucciones-MC550E.pdf">
-        <p>Github no es capaz de mostrar PDF en Markdown. Por favor ve al archivo: <a href="docs\Manual-de-instrucciones-MC550E.pdf"> Abrir PDF</a>.</p>
-    </embed>
-</object>
 
 ---
 
