@@ -9,6 +9,7 @@ A continuación se muestra el manual de instrucciones de la bordadora en caso de
 
 [https://www.google.com]: # '**Manual de Instrucciones** *Janome Memory Craft 550e*'
 
+[<kbd> <br> **Manual de Instrucciones** *Janome Memory Craft 550e* <br> </kbd>][https://andresmartinm.github.io/janomeMC550e-udd/manualPDF.html]
 
 ---
 
