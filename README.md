@@ -1,12 +1,21 @@
 # janomeMC550e-udd
 repositorio sobre la bordadora Janome Memory Craft 550e
 
-<object data="docs\Manual-de-instrucciones-MC550E.pdf" type="application/pdf" width="700px" height="700px">
+
+
+A continuación se muestra el manual de instrucciones de la bordadora en caso de que se necesite.
+
+---
+
+## **Manual de Instrucciones** *Janome Memory Craft 550e*
+
+<object data="docs\Manual-de-instrucciones-MC550E.pdf" type="application/pdf" width="80%" height="600px">
     <embed src="docs\Manual-de-instrucciones-MC550E.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="docs\Manual-de-instrucciones-MC550E.pdf">Download PDF</a>.</p>
+        <p>Github no es capaz de mostrar PDF en Markdown. Por favor ve al archivo: <a href="docs\Manual-de-instrucciones-MC550E.pdf"> Abrir PDF</a>.</p>
     </embed>
 </object>
 
+---
 
 TODO precauciones y recomendaciones antes de comenzar
 
