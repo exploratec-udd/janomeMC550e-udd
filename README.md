@@ -1,6 +1,11 @@
 # janomeMC550e-udd
 repositorio sobre la bordadora Janome Memory Craft 550e
 
+<div id="pdf"></div>
+<script src="https://unpkg.com/pdfobject"></script>
+<script>PDFObject.embed("docs\Manual-de-instrucciones-MC550E.pdf", "#pdf");</script>
+
+
 TODO precauciones y recomendaciones antes de comenzar
 
 TODO preparación de la maquina
