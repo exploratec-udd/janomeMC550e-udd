@@ -1,7 +1,6 @@
 # Guía de uso Janome MC550e
 repositorio sobre la bordadora Janome Memory Craft 550e del taller textil UDD
 
-![fondo](img/fotos/maquinaFondo.jpg)
 
 ------------------------
 
@@ -16,8 +15,8 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 
 ## Materiales
 
-- Tela (al menos un trozo de 16x16cms, se ha probado con crea y gasa).
-- Entretela (al menos un trozo de 16x16cms).
+- Tela (al menos un trozo de 20x20cms, se ha probado con crea y gasa).
+- Entretela (al menos un trozo de 20x20cms).
 - Carrete de hilo (más bobina).
 
 ## Recomendaciones
@@ -51,7 +50,7 @@ Para el uso de la máquina es necesario identificar tanto las partes mecánicas,
 - Portacarretes: para poner el carrete de hilo, al poner el hilo desde ahí a la aguja se deben seguir los pasos trazados en la carcasa de la máquina.
 - Bobina: va en la parte inferior, bajo una cubierta acrílica, al instalarla, se deben seguir los pasos trazados en la máquina.
 - Carro: para poner los distintos bastidores , este además se encarga de realizar los movimientos en dos ejes para hacer los bordados.
-- Bastidores: se cuenta con TODO distintas medidas, 14x14 cms, TODO...
+- Bastidores: se cuenta con 4 distintas medidas, 14x14 cms, 14x20 cms, 20x20 cms, y 20x36 cms.
 - Volante: al ser una máquina automática no se usa mucho pero es posible usarla para mover el mecanísmo.
 
 |<!-- -->|<!-- -->|
@@ -65,7 +64,6 @@ Para el uso de la máquina es necesario identificar tanto las partes mecánicas,
 |Bastidor 20x20 cms| Bastidor 20x36 cms|
 |![foto](img/fotos/resized/bastidor20x20.jpeg)|![foto](img/fotos/resized/bastidor20x36.jpeg)|
 
-![foto](img/fotos/vistaLateral.jpeg)
 
 #### Botones
 
@@ -82,13 +80,30 @@ Para el uso de la máquina es necesario identificar tanto las partes mecánicas,
 
 Antes de encender la máquina ya se puede preparar, hay que poner el carrete y la bobina siguiendo las indicaciones trazadas en la carcasa, también poner la tela junto a la entretela en el bastidor escogido.
 
-TODO imágenes de carrete bobina y bastidor
+
+|<!-- -->|<!-- -->|
+|:---:|:---:|
+|Paso del hilo|Paso del hilo por la aguja|
+|![foto](img/fotos/resized/pasoCarrete.jpeg)|![foto](img/fotos/resized/pasoAguja.jpeg)|
+|Apertura de la tapa de la bobina|Posicionamiento de la bobina|
+|![foto](img/fotos/resized/pasoBobina1.jpeg)|![foto](img/fotos/resized/pasoBobina2.jpeg)|
+|Parte inferior del bastidor sin tela|Bastidor con entretela|
+|![foto](img/fotos/resized/bastidorPaso01.jpeg)|![foto](img/fotos/resized/bastidorPaso02.jpeg)|
+|Bastidor con tela sobre la entretela| Bastidor visto desde abajo para apriete|
+|![foto](img/fotos/resized/bastidorPaso03.jpeg)|![foto](img/fotos/resized/bastidorPaso04.jpeg)|
+
+
+
+|||
+|![foto](img/fotos/resized)|![foto](img/fotos/resized)|
 
 Tras ello hay que encender la máquina (lo anterior se puede realizar con la máquina ya encendida), ... TODO pasos para poner el bastidor
 
 ### Bordado
 
-TODO pasos para realizar un bordado de la memoria interna
+TODO
+
+#### Bordar archivos internos
 
 |<!-- -->|<!-- -->|
 |:---:|:---:|
@@ -107,17 +122,16 @@ TODO pasos para realizar un bordado de la memoria interna
 |P13: Bordado escogido en la mesa de trabajo||
 |![foto](img/fotos/resized/pantalla13.jpeg)||
 
-#### Bordar archivos internos
-
-TODO pasos para realizar un bordado del USB
-
 #### Bordar archivos del USB
 
 Con la memoria USB puesta en el costado derecho de la máquina, hay que presionar el botón `Archivo 📁` al lado de la pantalla, desde ahí se puede navegar por los archivos de la impresora y del USB. En la parte superior de la pantalla hay un ícono de una maquina de coser y otro de un pendrive USB, lo que indica en cual de las memorias se está navegando.
 
 Al poner el USB por primera vez en la bordadora se generarán unas carpetas en las que deben estar los archivos de bordado tipo `.jef`, las carpetas son `./EMB/` y `./EMB/Embf/`, y todo lo que esté fuera de estas carpetas será ignorado por la máquina.
 
-
+|<!-- -->|<!-- -->|
+|:---:|:---:|
+|P14: Explorador de archivos|P15: Bordados de la memoria USB|
+|![foto](img/fotos/resized/pantalla14.jpeg)|![foto](img/fotos/resized/pantalla15.jpeg)|
 
 Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape
 
