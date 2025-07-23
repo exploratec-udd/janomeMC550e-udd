@@ -1,6 +1,6 @@
 # InkStitch para diseñar bordados
 
-[VOLVER AL PRINCIPIO](/../..)[![volver](https://web.archive.org/web/20090723231316/http://www.geocities.com/empordanacio/back.gif)](/../..)
+[VOLVER AL PRINCIPIO](/../)[![volver](https://web.archive.org/web/20090723231316/http://www.geocities.com/empordanacio/back.gif)](/../..)
 
 Para la realización de los bordados, cada empresa cuenta con un software generalmente de pago en el que se pueden generar los archivos para cada bordadora, esto es un problema dado que es necesaria una licencia para cada equipo, y estos softwares tienen una limitada compatibilidad con el flujo de trabajo.
 
