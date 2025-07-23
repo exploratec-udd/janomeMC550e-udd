@@ -14,9 +14,9 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 
 ## Materiales
 
-- Tela (al menos un trozo de 15x15cms, se ha probado con crea y gasa).
-- Entretela (al menos un trozo de 15x15cms).
-- Hilo TODO consultar con pame
+- Tela (al menos un trozo de 16x16cms, se ha probado con crea y gasa).
+- Entretela (al menos un trozo de 16x16cms).
+- Carrete de hilo (más bobina).
 
 ## Recomendaciones
 
@@ -50,6 +50,7 @@ Para el uso de la máquina es necesario identificar tanto las partes mecánicas,
 - Bobina: va en la parte inferior, bajo una cubierta acrílica, al instalarla, se deben seguir los pasos trazados en la máquina.
 - Carro: para poner los distintos bastidores , este además se encarga de realizar los movimientos en dos ejes para hacer los bordados.
 - Bastidores: se cuenta con TODO distintas medidas, 14x14 cms, TODO...
+- Volante: al ser una máquina automática no se usa mucho pero es posible usarla para mover el mecanísmo.
 
 #### Botones
 
@@ -64,11 +65,15 @@ Para el uso de la máquina es necesario identificar tanto las partes mecánicas,
 
 ### Preparación
 
+Antes de encender la máquina ya se puede preparar, hay que poner el carrete y la bobina siguiendo las indicaciones trazadas en la carcasa, también poner la tela junto a la entretela en el bastidor escogido.
 
+TODO imágenes de carrete bobina y bastidor
+
+Tras ello hay que encender la máquina (lo anterior se puede realizar con la máquina ya encendida), ...
 
 ### Bordado
 
-
+TODO texto de la selección
 
 Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape 
 
