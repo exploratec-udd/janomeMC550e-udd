@@ -40,7 +40,7 @@ Antes de comenzar con el uso de la máquina recuerde revisar las consideraciones
 
 Para el uso de la máquina es necesario identificar tanto las partes mecánicas, como las digitales. A continuación se muestran las principales, igualmente puede consultar el manual de instruciones para saber la ubicación y mayor detalle (pág 3, 4, 5 y 8).
 
-![partes](img/partes.png)
+![esquema de las partes extraida del manual](img/partes.png)
 
 #### Mecánicas
 
@@ -75,7 +75,17 @@ Tras ello hay que encender la máquina (lo anterior se puede realizar con la má
 
 TODO pasos para realizar un bordado de la memoria interna
 
+#### Bordar archivos internos
+
 TODO pasos para realizar un bordado del USB
+
+#### Bordar archivos del USB
+
+Con la memoria USB puesta en el costado derecho de la máquina, hay que presionar el botón `Archivo 📁` al lado de la pantalla, desde ahí se puede navegar por los archivos de la impresora y del USB. En la parte superior de la pantalla hay un ícono de una maquina de coser y otro de un pendrive USB, lo que indica en cual de las memorias se está navegando.
+
+Al poner el USB por primera vez en la bordadora se generarán unas carpetas en las que deben estar los archivos de bordado tipo `.jef`, las carpetas son `./EMB/` y `./EMB/Embf/`, y todo lo que esté fuera de estas carpetas será ignorado por la máquina.
+
+
 
 Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape
 
