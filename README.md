@@ -1,6 +1,8 @@
 # Guía de uso Janome MC550e
 repositorio sobre la bordadora Janome Memory Craft 550e del taller textil UDD
 
+![fondo](img/fotos/maquinaFondo.jpg)
+
 ------------------------
 
 $$\color{red}\Huge{\textsf{Considerar!}}$$
@@ -40,17 +42,30 @@ Antes de comenzar con el uso de la máquina recuerde revisar las consideraciones
 
 Para el uso de la máquina es necesario identificar tanto las partes mecánicas, como las digitales. A continuación se muestran las principales, igualmente puede consultar el manual de instruciones para saber la ubicación y mayor detalle (pág 3, 4, 5 y 8).
 
-![esquema de las partes extraida del manual](img/partes.png)
+![foto](img/fotos/resized/maquina.jpeg)
 
 #### Mecánicas
 
 - Aguja: cuenta con un orificio para pasar el hilo del carrete.
-- Prensatela: tiene 3 alturas, la más baja solo se usa para realizar un trabajo, el resto del tiempo debe estar a la altura media, y cada vez que el carro se mueva para montar o desmontar un bastidor se debe levantar hasta la mayor altura, para evitar choques con los bordes del bastidor.
+- Prensatelas tiene 3 alturas, la más baja solo se usa para realizar un trabajo, el resto del tiempo debe estar a la altura media, y cada vez que el carro se mueva para montar o desmontar un bastidor se debe levantar hasta la mayor altura, para evitar choques con los bordes del bastidor.
 - Portacarretes: para poner el carrete de hilo, al poner el hilo desde ahí a la aguja se deben seguir los pasos trazados en la carcasa de la máquina.
 - Bobina: va en la parte inferior, bajo una cubierta acrílica, al instalarla, se deben seguir los pasos trazados en la máquina.
 - Carro: para poner los distintos bastidores , este además se encarga de realizar los movimientos en dos ejes para hacer los bordados.
 - Bastidores: se cuenta con TODO distintas medidas, 14x14 cms, TODO...
 - Volante: al ser una máquina automática no se usa mucho pero es posible usarla para mover el mecanísmo.
+
+|<!-- -->|<!-- -->|
+|:---:|:---:|
+|Aguja| Prensatelas|
+|![foto](img/fotos/resized/pasoAguja.jpeg)|![foto](img/fotos/resized/prensatelasMedio.jpeg)|
+|Carro| Bastidores|
+|![foto](img/fotos/resized/carro.jpeg)|![foto](img/fotos/resized/bastidoresMedidas.jpeg)|
+|Bastidor 14x14 cms| Bastidor 14x20 cms|
+|![foto](img/fotos/resized/bastidor14x14.jpeg)|![foto](img/fotos/resized/bastidor14x20.jpeg)|
+|Bastidor 20x20 cms| Bastidor 20x36 cms|
+|![foto](img/fotos/resized/bastidor20x20.jpeg)|![foto](img/fotos/resized/bastidor20x36.jpeg)|
+
+![foto](img/fotos/vistaLateral.jpeg)
 
 #### Botones
 
@@ -74,6 +89,23 @@ Tras ello hay que encender la máquina (lo anterior se puede realizar con la má
 ### Bordado
 
 TODO pasos para realizar un bordado de la memoria interna
+
+|<!-- -->|<!-- -->|
+|:---:|:---:|
+|P01: Advertencia movimiento del carro|P02: Pantalla de inicio|
+|![foto](img/fotos/resized/pantalla01.jpeg)|![foto](img/fotos/resized/pantalla02.jpeg)|
+|P03: Mesa de trabajo por defecto|P04: Selección del bastidor|
+|![foto](img/fotos/resized/pantalla03.jpeg)|![foto](img/fotos/resized/pantalla04.jpeg)|
+|P05: Menú de inicio para ir al girasol|P06: Menú para seleccionar el bordado|
+|![foto](img/fotos/resized/pantalla05.jpeg)|![foto](img/fotos/resized/pantalla06.jpeg)|
+|P07: Bordado escogido en la mesa de trabajo|P08: Bordado desplazado al lugar requerido|
+|![foto](img/fotos/resized/pantalla07.jpeg)|![foto](img/fotos/resized/pantalla08.jpeg)|
+|P09: Advertencia movimiento del carro a la posición central|P10:  Advertencia bastidor escogido|
+|![foto](img/fotos/resized/pantalla09.jpeg)|![foto](img/fotos/resized/pantalla10.jpeg)|
+|P11: Advertencia para bajar el prensatelas| P12: Advertencia levantar el prensatelas|
+|![foto](img/fotos/resized/pantalla11.jpeg)|![foto](img/fotos/resized/pantalla12.jpeg)|
+|P13: Bordado escogido en la mesa de trabajo||
+|![foto](img/fotos/resized/pantalla13.jpeg)||
 
 #### Bordar archivos internos
 
