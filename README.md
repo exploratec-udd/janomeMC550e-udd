@@ -40,11 +40,16 @@ Antes de comenzar con el uso de la máquina recuerde revisar las consideraciones
 
 ### Partes
 
-Para el uso de la máquina es necesario identificar tanto las partes meramente mecánicas, como las digitales.
+Para el uso de la máquina es necesario identificar tanto las partes mecánicas, como las digitales. A continuación se muestran las principales, igualmente puede consultar el manual de instruciones para saber la ubicación y mayor detalle (pág 3, 4, 5 y 8).
 
 #### Mecánicas
 
-
+- Aguja: cuenta con un orificio para pasar el hilo del carrete.
+- Prensatela: tiene 3 alturas, la más baja solo se usa para realizar un trabajo, el resto del tiempo debe estar a la altura media, y cada vez que el carro se mueva para montar o desmontar un bastidor se debe levantar hasta la mayor altura, para evitar choques con los bordes del bastidor.
+- Portacarretes: para poner el carrete de hilo, al poner el hilo desde ahí a la aguja se deben seguir los pasos trazados en la carcasa de la máquina.
+- Bobina: va en la parte inferior, bajo una cubierta acrílica, al instalarla, se deben seguir los pasos trazados en la máquina.
+- Carro: para poner los distintos bastidores , este además se encarga de realizar los movimientos en dos ejes para hacer los bordados.
+- Bastidores: se cuenta con TODO distintas medidas, 14x14 cms, TODO...
 
 #### Botones
 
@@ -52,7 +57,7 @@ Para el uso de la máquina es necesario identificar tanto las partes meramente m
 - Botón `Start/Stop` (al frente de la máquina, verde si está encendida y no está trabajando, rojo si está trabajando).
 - Botones laterales de la pantalla:
     - Botón `Inicio 🏠`: desplega en la pantalla un menú con 5 opciones, el ícono de bastidor para mover el carro a la posición para desmontarlo, la equis `❌` para cerrar el menú, el girasol `🌻` para seleccionar los bordados guardados en la memoria interna de la máquina, el de letras `ABC` para escribir un bordado con las tipografías internas de la máquina, y el de rejilla `▦` para configurar el trabajo a realizar (desde el bastidor, a la posición de cada bordado).
-    - Botón `Archivo 📁`: despliega en la pantalla el menú para navegar en las carpetas de la mamoria interna y de la memoria USB puesta.
+    - Botón `Archivo 📁`: despliega en la pantalla el menú para navegar en las carpetas de la mamoria interna y de la memoria USB puesta, para importar archivos a la mesa de trabajo.
     - Botón `Configuración 🛠️`: despliega el menú de configuraciones, se pueden guardar ajustes y usarlos.
     - Botón `Ayuda ❓`: despliega el menú de ayuda con una explicación visual de varios pasos importantes.
     - Botón `Bloqueo 🔑`: desactiva y activa el resto de botones, se suele usar para evitar que se pasen a llevar las configuraciones.
