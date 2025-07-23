@@ -40,6 +40,8 @@ Antes de comenzar con el uso de la máquina recuerde revisar las consideraciones
 
 Para el uso de la máquina es necesario identificar tanto las partes mecánicas, como las digitales. A continuación se muestran las principales, igualmente puede consultar el manual de instruciones para saber la ubicación y mayor detalle (pág 3, 4, 5 y 8).
 
+![partes](img/partes.png)
+
 #### Mecánicas
 
 - Aguja: cuenta con un orificio para pasar el hilo del carrete.
@@ -67,13 +69,15 @@ Antes de encender la máquina ya se puede preparar, hay que poner el carrete y l
 
 TODO imágenes de carrete bobina y bastidor
 
-Tras ello hay que encender la máquina (lo anterior se puede realizar con la máquina ya encendida), ...
+Tras ello hay que encender la máquina (lo anterior se puede realizar con la máquina ya encendida), ... TODO pasos para poner el bastidor
 
 ### Bordado
 
-TODO texto de la selección
+TODO pasos para realizar un bordado de la memoria interna
 
-Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape 
+TODO pasos para realizar un bordado del USB
+
+Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape
 
 [CONTIUNUAR A INK/STITCH](inkstitch/)[![continuar](https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif)](fab/)
 
