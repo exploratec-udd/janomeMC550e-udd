@@ -40,23 +40,22 @@ Antes de comenzar con el uso de la máquina recuerde revisar las consideraciones
 
 ### Partes
 
+Para el uso de la máquina es necesario identificar tanto las partes meramente mecánicas, como las digitales.
+
+#### Mecánicas
 
 
-#### Parte superior y 
 
+#### Botones
 
-
-#### Botones y pantalla
-
-- Interruptor de encendido (al costado derecho de la máquina)
-- Botón `Start/Stop` (al frente de la máquina, verde si está encendida y no está trabajando, rojo si está trabajando)
+- Interruptor de encendido (al costado derecho de la máquina).
+- Botón `Start/Stop` (al frente de la máquina, verde si está encendida y no está trabajando, rojo si está trabajando).
 - Botones laterales de la pantalla:
-    - Botón `Home 🏠`
-    - Botón `Archivo 📁`
-    - Botón `Configuración 🛠️`
-    - Botón `Ayuda ❓`
-    - Botón `Bloqueo 🔑`
-
+    - Botón `Inicio 🏠`: desplega en la pantalla un menú con 5 opciones, el ícono de bastidor para mover el carro a la posición para desmontarlo, la equis `❌` para cerrar el menú, el girasol `🌻` para seleccionar los bordados guardados en la memoria interna de la máquina, el de letras `ABC` para escribir un bordado con las tipografías internas de la máquina, y el de rejilla `▦` para configurar el trabajo a realizar (desde el bastidor, a la posición de cada bordado).
+    - Botón `Archivo 📁`: despliega en la pantalla el menú para navegar en las carpetas de la mamoria interna y de la memoria USB puesta.
+    - Botón `Configuración 🛠️`: despliega el menú de configuraciones, se pueden guardar ajustes y usarlos.
+    - Botón `Ayuda ❓`: despliega el menú de ayuda con una explicación visual de varios pasos importantes.
+    - Botón `Bloqueo 🔑`: desactiva y activa el resto de botones, se suele usar para evitar que se pasen a llevar las configuraciones.
 
 ### Preparación
 
@@ -66,7 +65,9 @@ Antes de comenzar con el uso de la máquina recuerde revisar las consideraciones
 
 
 
-
 Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape 
 
-[CONTIUNUAR A INKSTITCH](inkstitch/)[![continuar](https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif)](fab/)
+[CONTIUNUAR A INK/STITCH](inkstitch/)[![continuar](https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif)](fab/)
+
+---
+>documentado por [AndresMartinM](https://github.com/AndresMartinM) 2025
