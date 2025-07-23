@@ -26,8 +26,6 @@ $$\color{red}\Huge{\textsf{Considerar!}}$$
 
 A continuación se muestra el manual de instrucciones de la bordadora en caso de que se necesite.
 
-
-
 ## **Manual de Instrucciones** *Janome Memory Craft 550e*
 
 [![foto](img/shotPDF.png)](https://andresmartinm.github.io/janomeMC550e-udd/manualPDF.html)

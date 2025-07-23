@@ -45,7 +45,7 @@ En la barra superior de inkscape se abre la siguiente opción **`Extensions > In
 :----:
 ![foto](img/params.png)
 
-Cabe decir que para que se guarden los cambios realizados hay que presionar `Apply and Quit`, de lo contrario no quedarán guardados, sin embargo cada vez que se entre a la pestaña de `Params` se cargaran las opciones por defecto, si se quiere guardar una configuracion para usarla después se tiene que añadir un preset, con el botón `Presets > Add`
+Cabe decir que para que se guarden los cambios realizados hay que presionar `Apply and Quit`, de lo contrario no quedarán guardados, sin embargo cada vez que se entre a la pestaña de `Params` se cargaran las opciones por defecto, si se quiere guardar una configuracion para usarla después se tiene que añadir un preset, con el botón `Presets > Add`.
 
 |**Guardar los cambios**
 :----:
@@ -73,7 +73,7 @@ Otra de las formas más usuales de bordado es el punto satín, en el que las pun
 
 #### Satín automático:
 
-Para realizar un bordado del tipo satín de forma rápida se puede usar la herramienta de **`Extensions > Ink/Stitch > Tools: Satin > Convert Line to Satin`**, para ello se debe seleccionar el trazo que se quiere convertir, puede ser cualquier trazo siempre y cuando tenga un principio y un final, es decir que no sea un trazo cerrado, además este debe tener grosor y ser solido
+Para realizar un bordado del tipo satín de forma rápida se puede usar la herramienta de **`Extensions > Ink/Stitch > Tools: Satin > Convert Line to Satin`**, para ello se debe seleccionar el trazo que se quiere convertir, puede ser cualquier trazo siempre y cuando tenga un principio y un final, es decir que no sea un trazo cerrado, además este debe tener grosor y ser solido.
 
 |**Dibujar un trazo con el bezier**
 :----:
@@ -105,7 +105,7 @@ En cambio si se quiere hacer un satín con mayor control, se pueden dibujar con 
 :----:
 ![foto](img/combinar.png)
 
-Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/Stitch > Params`**, al abrir automáticamente estará activo `Stroke`, para cambiar a satín hay que ir a la pestaña `Satin Column` y marcar el check de `✓ Custom satin column`
+Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/Stitch > Params`**, al abrir automáticamente estará activo `Stroke`, para cambiar a satín hay que ir a la pestaña `Satin Column` y marcar el check de `✓ Custom satin column`.
 
 |**Opciones de Satín en Params**
 :----:
@@ -113,7 +113,7 @@ Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/St
 
 ## Exportar archivo de bordado
 
-Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la maquina bordadora, hay que guardar el archivo primero como `.svg` de inkscape para guardar el proyecto, y luego como una copia en formato **`.jef`**, nótese que hay múltiples extensiones de archivo, y las que tienen que ver con bordado parten con 'Ink/Stitch:', el **`.jef`** es específico para las bordadoras Janome.
+Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la máquina bordadora, hay que guardar el archivo primero como `.svg` de inkscape para guardar el proyecto, y luego como una copia en formato **`.jef`**, nótese que hay múltiples extensiones de archivo, y las que tienen que ver con bordado parten con 'Ink/Stitch:', el **`.jef`** es específico para las bordadoras Janome.
 
 |**Guardar una copia**|**Guardar en formato compatible**|
 ---|---
