@@ -92,18 +92,13 @@ Antes de encender la máquina ya se puede preparar, hay que poner el carrete y l
 |Bastidor con tela sobre la entretela| Bastidor visto desde abajo para apriete|
 |![foto](img/fotos/resized/bastidorPaso03.jpeg)|![foto](img/fotos/resized/bastidorPaso04.jpeg)|
 
-
-
-|||
-|![foto](img/fotos/resized)|![foto](img/fotos/resized)|
-
 Tras ello hay que encender la máquina (lo anterior se puede realizar con la máquina ya encendida), ... TODO pasos para poner el bastidor
 
 ### Bordado
 
 TODO
 
-#### Bordar archivos internos
+A continuación se muestran distintas pantallas mostradas por la máquina durante el proceso. 
 
 |<!-- -->|<!-- -->|
 |:---:|:---:|
@@ -121,6 +116,17 @@ TODO
 |![foto](img/fotos/resized/pantalla11.jpeg)|![foto](img/fotos/resized/pantalla12.jpeg)|
 |P13: Bordado escogido en la mesa de trabajo||
 |![foto](img/fotos/resized/pantalla13.jpeg)||
+
+#### Bordar archivos internos
+
+TODO describir secuencia
+
+||||
+|:---:|:---:|:---:|
+|Prensatelas abajo |Prensatelas medio|Prensatelas arriba|
+|![foto](img/fotos/resized/prensatelasAbajo.jpeg)|![foto](img/fotos/resized/prensatelasMedio.jpeg)|![foto](img/fotos/resized/prensatelasArriba.jpeg)|
+
+![gif de la maquina funcionando](img/fotos/ambosGif.gif)
 
 #### Bordar archivos del USB
 
