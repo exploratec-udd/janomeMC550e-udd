@@ -4,11 +4,12 @@
 
 Para la realización de los bordados, cada empresa cuenta con un software generalmente de pago en el que se pueden generar los archivos para cada bordadora, esto es un problema dado que es necesaria una licencia para cada equipo, y estos softwares tienen una limitada compatibilidad con el flujo de trabajo.
 
-Por ello optamos por el uso de la herramienta Inkscape junto a su Plug-In InkStitch. Inkscape es un software de diseño vectorial similar a Adobe Illustrator, con la diferencia que es de código abierto y gratuito, esto permite que la comunidad agregue funciones que no estaban contempladas o abordadas por los creadores, así se desarrolló InkStitch un plug-in de Inkscape que agrega funciones para el diseño de bordados para maquinas de diferentes fabricantes, entre ellos Singer, Brother, y por supuesto Janome.
+Por ello optamos por el uso de la herramienta **Inkscape junto a su Plug-In InkStitch**. Inkscape es un software de diseño vectorial similar a Adobe Illustrator, con la diferencia que es de **código abierto y gratuito**, esto permite que la comunidad agregue funciones que no estaban contempladas o abordadas por los creadores, así se desarrolló InkStitch un plug-in de Inkscape que agrega funciones para el diseño de bordados para maquinas de diferentes fabricantes, entre ellos Singer, Brother, y por supuesto Janome.
 
 ## Instalar inkscape
 
-Inkscape se instala de forma gratuita a través de su página web ([https://inkscape.org/es/](https://inkscape.org/es/)) en el apartado de descarga, ahí se debe escoger el instalador a usar (suele seleccionarse de manera automática) y descargarlo, ya estando descargado se instala, se aceptan lo terminos de uso y se escoge la carpeta en la que se instalará. Al finalizar la instalación se abre inkscape y se puede hacer la configuración inicial de la interfaz, al cerrarlo o presionar `New Document` se abrirá una hoja de trabajo para comenzas a usar inkscape (se recomienda usar el software configurado en inglés para facilitar el uso de tutoriales).
+Inkscape se instala de forma gratuita a través de su página web ([https://inkscape.org/es/](https://inkscape.org/es/)) en el apartado de `descarga`, ahí se debe escoger el instalador a usar (suele seleccionarse de manera automática) y descargarlo, ya estando descargado se instala, se aceptan lo terminos de uso y se escoge la carpeta en la que se instalará.
+Al finalizar la instalación se abre inkscape y se puede hacer la configuración inicial de la interfaz, al cerrarlo o presionar `New Document` se abrirá una hoja de trabajo para comenzas a usar inkscape (se recomienda usar el software configurado en inglés para facilitar el uso de tutoriales).
 
  [🔗 Tutorial de la instalación en YouTube](https://www.youtube.com/watch?v=qUHQng7XKlg)
 
@@ -18,7 +19,7 @@ Si bien la interfaz es parecida a illustrator, se recomienda estudiar su uso por
 
 ## Instalar Ink/Stitch
 
-Inkstitch se descarga desde su página web [https://inkstitch.org/](https://inkstitch.org/), en ella hay que ir a `Download` y descargar la versión de acuerdo al sistema operativo en el que se esté trabajando. En la misma página de inkscape hay un instructivo para descargar e instalar el plug-in.
+Inkstitch se descarga desde su página web [https://inkstitch.org/](https://inkstitch.org/), en ella hay que ir a `Download` y descargar la versión de acuerdo al sistema operativo en el que se esté trabajando (Windows o Mac). En la misma página de inkscape hay un instructivo para descargar e instalar el plug-in.
 
  [🔗 Tutorial de la instalación en YouTube](https://www.youtube.com/watch?v=CkqyaNlMq_A)
 
@@ -28,7 +29,7 @@ Permalink más reciente de la página para consultar sobre la instalación en wi
 
 ## Uso de Ink/Stitch
 
-Tras realizar la instalación ya se puede comenzar a usar para diseñar bordados, inkstitch permite realizar varios tipos de bordado; si bien en esta guía se usa el bordado tipo relleno y tipo satín hay otras que se explican tambien en la página de inkstitch.
+Tras realizar la instalación ya se puede comenzar a usar para diseñar bordados, inkstitch permite realizar varios tipos de bordado; si bien en esta guía se usa el bordado tipo relleno y tipo satín, existen otras técnicas que puedes explorar en la página web de inkstitch.
 
 Para comenzar se debe abrir inkscape y trabajar en una mesa de trabajo acorde al tamaño del bordado (se recomienda usar el tamaño del bastidor a usar), por defecto el tamaño de la mesa de trabajo en inkscape es A4, el cuál se puede cambiar desde **`File > Document Properties...`** o con el atajo `shift+ctrl+D` en windows.
 
@@ -66,7 +67,7 @@ Cuando se trabaja con figuras con relleno solido es decir que no sean `No paint`
 
 TODO insertar una fotografia de un bordado satin real
 
-Otra de las formas más usuales de bordado es el punto satín, en el que las puntadas, en lugar de ser cortas y continuas, van de un extremo al otro de la figura. Para hacer este tipo de bordado en inkstitch se puede hacer tanto de manera automática convirtiendo líneas a trazos, como manual para tener más control.
+Otra de las formas más usuales de bordado es el punto satín, en el que las puntadas, en lugar de ser cortas y continuas, van de un extremo al otro de la figura. Para hacer este tipo de bordado en inkstitch se puede hacer tanto de manera automática convirtiendo líneas a trazos, como manual, obteniendo mayor control.
 
 > si se desea profundizar en esto se recomienda revisar lo siguiente: [https://inkstitch.org/docs/stitches/satin-column/](https://inkstitch.org/docs/stitches/satin-column/)
 
