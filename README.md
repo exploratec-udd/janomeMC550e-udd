@@ -79,7 +79,7 @@ TODO pasos para realizar un bordado del USB
 
 Si quieres diseñar tus propios bordados puedes continuar con el manual de uso de InkStitch de Inkscape
 
-[CONTIUNUAR A INK/STITCH](inkstitch/)[![continuar](https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif)](fab/)
+[CONTIUNUAR A INK/STITCH](inkstitch/)[![continuar](https://web.archive.org/web/20000829204600/http://www.geocities.com:80/Tokyo/Gulf/6263/next.gif)](inkstitch/)
 
 ---
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) 2025
