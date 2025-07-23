@@ -121,7 +121,7 @@ A continuación se muestran distintas pantallas mostradas por la máquina durant
 
 TODO describir secuencia
 
-||||
+|<!-- -->|<!-- -->|<!-- -->|
 |:---:|:---:|:---:|
 |Prensatelas abajo |Prensatelas medio|Prensatelas arriba|
 |![foto](img/fotos/resized/prensatelasAbajo.jpeg)|![foto](img/fotos/resized/prensatelasMedio.jpeg)|![foto](img/fotos/resized/prensatelasArriba.jpeg)|
