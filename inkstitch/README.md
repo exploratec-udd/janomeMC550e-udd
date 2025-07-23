@@ -122,11 +122,11 @@ Luego el archivo se puede poner en un pendrive y llevar a la máquina.
 
 ## Tutoriales recomendados
 
-[🔗 @InkStitch | Canal de YouTube Oficial](https://www.youtube.com/@InkStitch)
+[🔗 @InkStitch :: Canal de YouTube Oficial](https://www.youtube.com/@InkStitch)
 
-[🔗 @LowTechLinux | Canal de YouTube Recomendado](https://www.youtube.com/@LowTechLinux)
+[🔗 @LowTechLinux :: Canal de YouTube Recomendado](https://www.youtube.com/@LowTechLinux)
 
-[🔗 @ProjectAnonymous_Duo | Canal de YouTube Recomendado](https://www.youtube.com/@ProjectAnonymous_Duo)
+[🔗 @ProjectAnonymous_Duo :: Canal de YouTube Recomendado](https://www.youtube.com/@ProjectAnonymous_Duo)
 
 ---
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) 2025
