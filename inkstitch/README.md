@@ -53,7 +53,9 @@ Cabe decir que para que se guarden los cambios realizados hay que presionar `App
 
 ### Bordado tipo relleno
 
-TODO insertar una fotografia de un bordado relleno real
+|Bordado tipo relleno| Bordado tipo trazo|
+|---|---|
+|![foto relleno](../img/fotos/resized/fill.jpeg)|![foto relleno](../img/fotos/resized/stroke.jpeg)|
 
 Cuando se trabaja con figuras con relleno solido es decir que no sean `No paint`, esto aparece en las opciones de relleno y trazo que se pueden desplegar con **`Object > Fill and Stroke...`**; inkstitch interpretará este relleno solido como un espacio a rellenar con bordado, por lo que al abrir **`Extensions > Ink/Stitch > Params`** aparecerán las opciones de `FillStitch` y `Fill Underlay` cada una con distintos parametros para manejar.
 
@@ -65,7 +67,9 @@ Cuando se trabaja con figuras con relleno solido es decir que no sean `No paint`
 
 ### Bordado tipo satín
 
-TODO insertar una fotografia de un bordado satin real
+|Bordado tipo satín|
+|---|
+|![foto satin](../img/fotos/resized/satin.jpeg)|
 
 Otra de las formas más usuales de bordado es el punto satín, en el que las puntadas, en lugar de ser cortas y continuas, van de un extremo al otro de la figura. Para hacer este tipo de bordado en inkstitch se puede hacer tanto de manera automática convirtiendo líneas a trazos, como manual, obteniendo mayor control.
 
@@ -120,6 +124,11 @@ Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la
 |![foto](img/save.png)|![foto](img/jef.png)|
 
 Luego el archivo se puede poner en un pendrive y llevar a la máquina.
+
+|Muestrario de bordados|
+|---|
+|
+![foto relleno](../img/fotos/resized/muestrario1.jpeg)|
 
 ## Tutoriales recomendados
 
