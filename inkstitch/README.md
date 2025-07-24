@@ -45,7 +45,7 @@ En la barra superior de inkscape se abre la siguiente opción **`Extensions > In
 :----:
 ![foto](img/params.png)
 
-Cabe decir que para que se guarden los cambios realizados hay que presionar `Apply and Quit`, de lo contrario no quedarán guardados, sin embargo cada vez que se entre a la pestaña de `Params` se cargaran las opciones por defecto, si se quiere guardar una configuracion para usarla después se tiene que añadir un preset, con el botón `Presets > Add`
+Cabe decir que para que se guarden los cambios realizados hay que presionar `Apply and Quit`, de lo contrario no quedarán guardados, sin embargo cada vez que se entre a la pestaña de `Params` se cargaran las opciones por defecto, si se quiere guardar una configuracion para usarla después se tiene que añadir un preset, con el botón `Presets > Add`.
 
 |**Guardar los cambios**
 :----:
@@ -53,7 +53,9 @@ Cabe decir que para que se guarden los cambios realizados hay que presionar `App
 
 ### Bordado tipo relleno
 
-TODO insertar una fotografia de un bordado relleno real
+|Bordado tipo relleno| Bordado tipo trazo|
+|---|---|
+|![foto relleno](../img/fotos/resized/fill.jpeg)|![foto relleno](../img/fotos/resized/stroke.jpeg)|
 
 Cuando se trabaja con figuras con relleno solido es decir que no sean `No paint`, esto aparece en las opciones de relleno y trazo que se pueden desplegar con **`Object > Fill and Stroke...`**; inkstitch interpretará este relleno solido como un espacio a rellenar con bordado, por lo que al abrir **`Extensions > Ink/Stitch > Params`** aparecerán las opciones de `FillStitch` y `Fill Underlay` cada una con distintos parametros para manejar.
 
@@ -65,7 +67,9 @@ Cuando se trabaja con figuras con relleno solido es decir que no sean `No paint`
 
 ### Bordado tipo satín
 
-TODO insertar una fotografia de un bordado satin real
+|Bordado tipo satín|
+|---|
+|![foto satin](../img/fotos/resized/satin.jpeg)|
 
 Otra de las formas más usuales de bordado es el punto satín, en el que las puntadas, en lugar de ser cortas y continuas, van de un extremo al otro de la figura. Para hacer este tipo de bordado en inkstitch se puede hacer tanto de manera automática convirtiendo líneas a trazos, como manual, obteniendo mayor control.
 
@@ -73,7 +77,7 @@ Otra de las formas más usuales de bordado es el punto satín, en el que las pun
 
 #### Satín automático:
 
-Para realizar un bordado del tipo satín de forma rápida se puede usar la herramienta de **`Extensions > Ink/Stitch > Tools: Satin > Convert Line to Satin`**, para ello se debe seleccionar el trazo que se quiere convertir, puede ser cualquier trazo siempre y cuando tenga un principio y un final, es decir que no sea un trazo cerrado, además este debe tener grosor y ser solido
+Para realizar un bordado del tipo satín de forma rápida se puede usar la herramienta de **`Extensions > Ink/Stitch > Tools: Satin > Convert Line to Satin`**, para ello se debe seleccionar el trazo que se quiere convertir, puede ser cualquier trazo siempre y cuando tenga un principio y un final, es decir que no sea un trazo cerrado, además este debe tener grosor y ser solido.
 
 |**Dibujar un trazo con el bezier**
 :----:
@@ -105,7 +109,7 @@ En cambio si se quiere hacer un satín con mayor control, se pueden dibujar con 
 :----:
 ![foto](img/combinar.png)
 
-Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/Stitch > Params`**, al abrir automáticamente estará activo `Stroke`, para cambiar a satín hay que ir a la pestaña `Satin Column` y marcar el check de `✓ Custom satin column`
+Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/Stitch > Params`**, al abrir automáticamente estará activo `Stroke`, para cambiar a satín hay que ir a la pestaña `Satin Column` y marcar el check de `✓ Custom satin column`.
 
 |**Opciones de Satín en Params**
 :----:
@@ -113,7 +117,7 @@ Tras combinar los trazos en un solo objeto, hay que abrir **`Extensions > Ink/St
 
 ## Exportar archivo de bordado
 
-Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la maquina bordadora, hay que guardar el archivo primero como `.svg` de inkscape para guardar el proyecto, y luego como una copia en formato **`.jef`**, nótese que hay múltiples extensiones de archivo, y las que tienen que ver con bordado parten con 'Ink/Stitch:', el **`.jef`** es específico para las bordadoras Janome.
+Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la máquina bordadora, hay que guardar el archivo primero como `.svg` de inkscape para guardar el proyecto, y luego como una copia en formato **`.jef`**, nótese que hay múltiples extensiones de archivo, y las que tienen que ver con bordado parten con 'Ink/Stitch:', el **`.jef`** es específico para las bordadoras Janome.
 
 |**Guardar una copia**|**Guardar en formato compatible**|
 ---|---
@@ -121,13 +125,17 @@ Cuando se tenga un plan de bordado listo, y se quiera guardar para mandarlo a la
 
 Luego el archivo se puede poner en un pendrive y llevar a la máquina.
 
+|Muestrario de bordados|
+|---|
+|![foto relleno](../img/fotos/resized/muestrario1.jpeg)|
+
 ## Tutoriales recomendados
 
-[🔗 @InkStitch | Canal de YouTube Oficial](https://www.youtube.com/@InkStitch)
+[🔗 @InkStitch :: Canal de YouTube Oficial](https://www.youtube.com/@InkStitch)
 
-[🔗 @LowTechLinux | Canal de YouTube Recomendado](https://www.youtube.com/@LowTechLinux)
+[🔗 @LowTechLinux :: Canal de YouTube Recomendado](https://www.youtube.com/@LowTechLinux)
 
-[🔗 @ProjectAnonymous_Duo | Canal de YouTube Recomendado](https://www.youtube.com/@ProjectAnonymous_Duo)
+[🔗 @ProjectAnonymous_Duo :: Canal de YouTube Recomendado](https://www.youtube.com/@ProjectAnonymous_Duo)
 
 ---
 >documentado por [AndresMartinM](https://github.com/AndresMartinM) 2025
