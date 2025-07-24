@@ -127,8 +127,7 @@ Luego el archivo se puede poner en un pendrive y llevar a la máquina.
 
 |Muestrario de bordados|
 |---|
-|
-![foto relleno](../img/fotos/resized/muestrario1.jpeg)|
+|![foto relleno](../img/fotos/resized/muestrario1.jpeg)|
 
 ## Tutoriales recomendados
 
